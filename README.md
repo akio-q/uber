@@ -1,2 +1,2 @@
 # uber
-HTML/CSS stydy project
+HTML/CSS study project
